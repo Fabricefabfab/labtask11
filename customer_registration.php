@@ -7,7 +7,7 @@ if (isset($_GET["register"])) {
 <html>
 	<head>
 		<meta charset="UTF-8">
-		<title>Ecommerce</title>
+		<title>Lab assignment</title>
 		<link rel="stylesheet" href="css/bootstrap.min.css"/>
 		<script src="js/jquery2.js"></script>
 		<script src="js/bootstrap.min.js"></script>
@@ -21,10 +21,9 @@ if (isset($_GET["register"])) {
 	<div class="navbar navbar-inverse navbar-fixed-top">
 		<div class="container-fluid">	
 			<div class="navbar-header">
-				<a href="index.php" class="navbar-brand">Ecommerce Site</a>
+				<a href="index.php" class="navbar-brand">Lab assignment</a>
 			</div>
 			<ul class="nav navbar-nav">
-				<li><a href="index.php"><span class="glyphicon glyphicon-home"></span> Home</a></li>
 				<li><a href="index.php"><span class="glyphicon glyphicon-modal-window"></span> Product</a></li>
 			</ul>
 		</div>
@@ -44,7 +43,7 @@ if (isset($_GET["register"])) {
 			<div class="col-md-2"></div>
 			<div class="col-md-6">
 				<div class="panel panel-primary">
-					<div class="panel-heading text-center">Customer Registration Form</div>
+					<div class="panel-heading text-center">Form for Customer Registration</div>
 					<div class="panel-body">
 					
 					<form class="col-md-12 col-md-offset-3" id="signup_form" onsubmit="return false">

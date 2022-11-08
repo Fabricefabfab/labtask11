@@ -30,15 +30,7 @@
             </tr>
           </thead>
           <tbody id="product_list">
-            <!-- <tr>
-              <td>1</td>
-              <td>ABC</td>
-              <td>FDGR.JPG</td>
-              <td>122</td>
-              <td>eLECTRONCS</td>
-              <td>aPPLE</td>
-              <td><a class="btn btn-sm btn-info"></a><a class="btn btn-sm btn-danger">Delete</a></td>
-            </tr> -->
+
           </tbody>
         </table>
       </div>
@@ -181,7 +173,7 @@
             </div>
             <div class="col-12">
               <div class="form-group">
-                <label>Product Keywords <small>(eg: apple, iphone, mobile)</small></label>
+                <label>Product Keywords <small>(eg: food,apple, iphone, mobile)</small></label>
                 <input type="text" name="e_product_keywords" class="form-control" placeholder="Enter Product Keywords">
               </div>
             </div>

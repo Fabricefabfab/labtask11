@@ -19,12 +19,6 @@
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link <?php echo ($page == 'customer_orders.php') ? 'active' : ''; ?>" href="customer_orders.php">
-              <span data-feather="clipboard"></span>
-              Orders
-            </a>
-          </li>
-          <li class="nav-item">
             <a class="nav-link <?php echo ($page == 'products.php') ? 'active' : ''; ?>" href="products.php">
               <span data-feather="shopping-cart"></span>
               Products
