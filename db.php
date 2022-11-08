@@ -2,10 +2,10 @@
 
 require "config/constants.php";
 
-$servername = "localhost";
-$username = "root";
-$password = "";
-$db = "shoppn";
+$servername = "us-cdbr-east-06.cleardb.net";
+$username = "b19b15268564db";
+$password = "884308b1";
+$db = "heroku_ad357842d03c6ca";
 
 // Create connection
 $con = mysqli_connect($servername, $username, $password,$db);
